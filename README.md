@@ -2,7 +2,7 @@
 
 A collection of SQL practice queries created for learning and revising SQL concepts for **Data Analytics and technical interviews**.
 
-This repository is intended to be useful for:
+This repository is useful for:
 
 - Revising SQL concepts
 - Practicing common SQL interview queries
