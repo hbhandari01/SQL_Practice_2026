@@ -1,6 +1,6 @@
-# SQL Practice & Interview Preparation
+# SQL Practice & Interview Preparation 
 
-A collection of SQL practice queries created while learning and revising SQL concepts for **Data Analytics and technical interviews**.
+A collection of SQL practice queries created for learning and revising SQL concepts for **Data Analytics and technical interviews**.
 
 This repository is intended to be useful for:
 
